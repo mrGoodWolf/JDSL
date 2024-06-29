@@ -29,7 +29,7 @@ To add a method to a class, you must find the abbreviated git commit hash (ex: `
     "File": "Index.json",
     "Class": "Index",
     "Author": "tom@genius.com",
-    "Purpose": "🖕",
+    "Purpose": "",
     "Functions": [
         54270903
     ]
